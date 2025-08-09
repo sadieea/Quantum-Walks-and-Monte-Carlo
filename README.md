@@ -37,7 +37,20 @@ The primary finding of this project is the quantifiable success of using softwar
 *Caption: The Hellinger distance from the target distribution for each simulation. The error bars represent the stochastic uncertainty (shot noise). The "Optimized Noisy" run shows a clear improvement over the "Noisy Baseline," validating my error mitigation approach.*
 
 ---
+## 📈 Performance Metrics & Conclusion
 
+This table summarizes the final performance metrics for each simulation run, focusing on the accuracy (KL Divergence) and the computational cost (Execution Time).
+
+| Simulation              | KL Divergence | Execution Time (s) |
+| :---------------------- | :------------ | :----------------- |
+| **Ideal Binomial** | 0.0001166      | ~0.16              |
+| **Ideal Exponential** | 0.000102      | ~4.46              |
+| **Noisy Baseline** | 0.0015      | ~0.13              |
+| **Optimized Noisy** | 0.0002      | ~0.14              |
+
+**Conclusion:** The results demonstrate the successful implementation of the Quantum Galton Box. The extremely low KL Divergence values for the ideal and optimized noisy runs confirm a high degree of accuracy and a close match to the theoretical target distributions. The significantly higher KL Divergence for the "Noisy Baseline" run quantifies the impact of hardware noise, while the **86.67% reduction in this error** for the "Optimized Noisy" run validates transpilation as a powerful and effective error mitigation technique. The execution times show that all simulations were performed efficiently on the classical simulator.
+
+---
 ## 📂 Repository Structure
 
 The repository is organized to separate logic, experiments, and results for clarity and reproducibility.
