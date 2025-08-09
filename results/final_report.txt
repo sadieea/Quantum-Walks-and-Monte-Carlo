@@ -1,0 +1,18 @@
+--- Task 5: Distribution Distance and Uncertainty Analysis ---
+
+Simulation: Ideal Binomial
+  - Hellinger Distance: 0.005773 ± 0.003021
+  - KL Divergence:      0.000133
+
+Simulation: Ideal Exponential
+  - Hellinger Distance: 0.007851 ± 0.001650
+  - KL Divergence:      0.000162
+
+Simulation: Noisy Baseline
+  - Hellinger Distance: 0.017108 ± 0.003668
+  - KL Divergence:      0.001175
+
+Simulation: Optimized Noisy
+  - Hellinger Distance: 0.008682 ± 0.003226
+  - KL Divergence:      0.000303
+
