@@ -22,10 +22,9 @@ The final analysis quantitatively confirms the success of this mitigation strate
 
 ---
 
-## 🎥 Project Presentation & Video
+## 🎥 Project Presentation 
 
 * **Project Presentation Deck:** **[View the Presentation (PDF)](docs/Project_Presentation.pdf)**
-* **Video Explanation:** **[Watch on YouTube](https://your-youtube-link-here)**
 
 ---
 
@@ -106,7 +105,7 @@ This checklist maps my work to the five tasks required by the challenge.
 | **3.** | Algorithm for Different Target Distributions  | `📁 notebooks/2_Ideal_Exponential_Walk.ipynb`                       |
 | **4.** | Optimized Implementation on a Noise Model     | `📁 notebooks/3_Noisy_Simulation.ipynb`                             |
 | **5.** | Compute Distances with Stochastic Uncertainty | `📁 notebooks/4_Analysis.ipynb` & `📁 results/final_report.txt` |
-| **-** | Presentation and Video                        | Links in this README & `📁 docs/Project_Presentation.pdf`         |
+| **-** | Presentation                                   | `📁 docs/Project_Presentation.pdf`                               |
 
 ---
 
