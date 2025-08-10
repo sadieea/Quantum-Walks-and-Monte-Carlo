@@ -57,7 +57,7 @@ The repository is organized to separate logic, experiments, and results for clar
 * `📁 docs/`: Contains the 2-page project summary and the final presentation PDF.
 * `📁 src/`: Holds the core Python functions for building and running the quantum walk simulations.
 * `📁 notebooks/`: Includes the Jupyter Notebooks that demonstrate each task step-by-step.
-* `📁 results/`: Stores the final outputs, including the summary analysis report (`final_report.txt`) and all generated plots.
+* `📁 results/`: Stores the 2 layer circuit diagram, the final outputs,  including the summary analysis report (`final_report.txt`) and all generated plots.
 * `📄 requirements.txt`: Lists all necessary Python packages.
 
 ---
