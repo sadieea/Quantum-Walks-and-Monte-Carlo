@@ -68,7 +68,7 @@ To set up the environment and run my experiments, follow these steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/Quantum-Walks-and-Monte-Carlo.git](https://github.com/sadieea/Quantum-Walks-and-Monte-Carlo.git)
+    git clone [https://github.com/sadieea/Quantum-Walks-and-Monte-Carlo.git](https://github.com/sadieea/Quantum-Walks-and-Monte-Carlo.git)
     cd Quantum-Walks-and-Monte-Carlo
     ```
 
